@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshilsharaf1234@gmail.com**
 
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1895xQLpF4ctQmLcR_8BLUR3dXoOj4VCA/view?usp=sharing) 📑
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1AOTNMu8hgAXZ4w_5M7zJWx3O803BF8sP/view?usp=sharing) 📑
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
