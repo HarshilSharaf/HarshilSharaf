@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshilsharaf&label=Profile%20views&color=b40e0e&style=flat-square" alt="harshilsharaf" /> </p>
 
-- 💬 Ask me about **CyberSecurity,Python,Web Development,Back-end Development and to solve your errors😉**
+- 💬 Ask me about **CyberSecurity,Python,NODE.js,Web Development,Back-end Development and to solve your errors😉**
 
 - 📫 How to reach me **harshilsharaf1234@gmail.com**
 
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1AOTNMu8hgAXZ4w_5M7zJWx3O803BF8sP/view?usp=sharing) 📑
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1Wolww1AvYYkQ5bE0pm1oH9EAjMKQ5B4h/view?usp=sharing) 📑
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
